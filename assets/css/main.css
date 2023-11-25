@@ -32,7 +32,9 @@ footer, header, hgroup, menu, nav, section {
 body {
 	line-height: 1;
 }
-
+.mercy {
+	margin-top: 2em;
+}
 ol, ul {
 	list-style: none;
 }
@@ -3285,7 +3287,7 @@ input, select, textarea {
 
 	#intro {
 		color: #ffffff;
-		padding: 8rem 4rem 6rem 4rem ;
+		padding: 4rem 4rem 6rem 4rem ;
 		-moz-align-items: center;
 		-webkit-align-items: center;
 		-ms-align-items: center;
@@ -3310,7 +3312,7 @@ input, select, textarea {
 		cursor: default;
 		text-align: center;
 		z-index: 1;
-		min-height: 100vh;
+		min-height: 50vh;
 	}
 
 		#intro input, #intro select, #intro textarea {
